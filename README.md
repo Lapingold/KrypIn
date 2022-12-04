@@ -7,7 +7,7 @@ I have Choosen a self-explaining name for our project.
 ## Description
 This is a text adventure rpg game Engine. Where you are suppose to be able 
 to chose for example:
-- Name
+- Name on your character
 - Fight Monsters (and NPC?)
 - Talk to NPC (and Enemies?)
 
